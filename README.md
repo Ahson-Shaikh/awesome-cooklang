@@ -110,6 +110,7 @@ For generating recipe websites from `.cook` files.
 - [cooklang-epub](https://github.com/pakohan/cooklang-epub) — Cooklang → EPUB. Go.
 - [cookbook-creator](https://github.com/cooklang/cookbook-creator) — Render a folder of `.cook` files into a PDF cookbook via CookCLI's LaTeX output.
 - [cooklang-sankey](https://www.npmjs.com/package/@4kk11/cooklang-sankey) — Build Sankey diagram data from a recipe.
+- [rhylthyme-importers](https://github.com/rhylthyme/rhylthyme-importers#cooklang) - Cooklang -> Rhylthyme program. Python.
 
 ### AI & Agent Tooling
 
